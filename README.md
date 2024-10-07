@@ -1,2 +1,1 @@
-# pipeline_pandas
-Laboratório da aula sobre pipelines em Pandas
+# Laboratório da aula sobre pipelines em Pandas
